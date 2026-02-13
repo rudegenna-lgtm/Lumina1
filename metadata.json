@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Narrator",
+  "description": "An immersive AI-powered voice storytelling app that generates stories and narrates them with realistic voices and atmospheric ambient sounds like rain and forest birds.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

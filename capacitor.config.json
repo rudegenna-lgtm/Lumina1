@@ -1,0 +1,9 @@
+{
+  "appId": "com.lumina.narrator",
+  "appName": "Lumina Narrator",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
